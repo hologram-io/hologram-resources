@@ -109,11 +109,6 @@
          "name":"Burundi"
       },
       {
-         "slug":"Canada",
-         "name":"Canada",
-         "4glte":true
-      },
-      {
          "slug":"Cayman Islands",
          "name":"Cayman Islands"
       },
@@ -648,6 +643,11 @@
       {
          "slug":"Cameroon",
          "name":"Cameroon"
+      },
+      {
+         "slug":"Canada",
+         "name":"Canada",
+         "4glte":true
       },
       {
          "slug":"Chad",
