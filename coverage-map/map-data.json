@@ -3,8 +3,8 @@
   "continents": {
     "NA": "North America",
     "EU": "Europe",
-    "SA": "South America",
     "AS": "Asia",
+    "SA": "South America",
     "AF": "Africa",
     "OC": "Oceania"
   },
