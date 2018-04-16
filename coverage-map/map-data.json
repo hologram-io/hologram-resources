@@ -1,0 +1,1653 @@
+{
+  "version": 1,
+  "continents": {
+    "NA": "North America",
+    "EU": "Europe",
+    "SA": "South America",
+    "AS": "Asia",
+    "AF": "Africa",
+    "OC": "Oceania"
+  },
+  "countries": {
+    "-1": {
+      "covered": false
+    },
+    "-2": {
+      "covered": false
+    },
+    "-3": {
+      "covered": false
+    },
+    "4": {
+      "4glte": false,
+      "carriers": ["emi", "mtn", "afg"],
+      "code": "AF",
+      "continent": "AS",
+      "covered": true
+    },
+    "8": {
+      "4glte": true,
+      "carriers": ["vdf", "eag"],
+      "code": "AL",
+      "continent": "EU",
+      "covered": true
+    },
+    "10": {
+      "covered": false
+    },
+    "12": {
+      "covered": false
+    },
+    "16": {
+      "covered": false
+    },
+    "20": {
+      "covered": false
+    },
+    "24": {
+      "covered": false
+    },
+    "28": {
+      "4glte": true,
+      "carriers": ["cab"],
+      "code": "AG",
+      "continent": "NA",
+      "covered": true
+    },
+    "31": {
+      "4glte": false,
+      "carriers": ["aze", "azf", "bak"],
+      "code": "AZ",
+      "continent": "AS",
+      "covered": true
+    },
+    "32": {
+      "4glte": false,
+      "carriers": ["tmv", "amx"],
+      "code": "AR",
+      "continent": "SA",
+      "covered": true
+    },
+    "36": {
+      "4glte": true,
+      "carriers": ["vdf", "sin", "tcl"],
+      "code": "AU",
+      "continent": "OC",
+      "covered": true
+    },
+    "40": {
+      "4glte": true,
+      "carriers": ["hut", "tmo", "a1t"],
+      "code": "AT",
+      "continent": "EU",
+      "covered": true
+    },
+    "44": {
+      "covered": false
+    },
+    "48": {
+      "covered": false
+    },
+    "50": {
+      "4glte": false,
+      "carriers": ["ban", "gra"],
+      "code": "BD",
+      "continent": "AS",
+      "covered": true
+    },
+    "51": {
+      "4glte": false,
+      "carriers": ["arm", "uco", "ktl"],
+      "code": "AM",
+      "continent": "AS",
+      "covered": true
+    },
+    "52": {
+      "4glte": false,
+      "carriers": ["cab"],
+      "code": "BB",
+      "continent": "NA",
+      "covered": true
+    },
+    "56": {
+      "4glte": true,
+      "carriers": ["tng", "ora", "prx"],
+      "code": "BE",
+      "continent": "EU",
+      "covered": true
+    },
+    "60": {
+      "4glte": false,
+      "carriers": ["ber"],
+      "code": "BM",
+      "continent": "NA",
+      "covered": true
+    },
+    "64": {
+      "covered": false
+    },
+    "68": {
+      "4glte": false,
+      "carriers": ["tig", "nue"],
+      "code": "BO",
+      "continent": "SA",
+      "covered": true
+    },
+    "70": {
+      "4glte": false,
+      "carriers": ["hte", "rst"],
+      "code": "BA",
+      "continent": "EU",
+      "covered": true
+    },
+    "72": {
+      "covered": false
+    },
+    "74": {
+      "covered": false
+    },
+    "76": {
+      "4glte": true,
+      "carriers": ["viv", "cla", "oim", "tim"],
+      "code": "BR",
+      "continent": "SA",
+      "covered": true
+    },
+    "84": {
+      "4glte": false,
+      "carriers": ["bel"],
+      "code": "BZ",
+      "continent": "NA",
+      "covered": true
+    },
+    "86": {
+      "covered": false
+    },
+    "90": {
+      "covered": false
+    },
+    "92": {
+      "4glte": false,
+      "carriers": ["cab", "car"],
+      "code": "VG",
+      "continent": "NA",
+      "covered": true
+    },
+    "96": {
+      "4glte": false,
+      "carriers": ["prg"],
+      "code": "BN",
+      "continent": "AS",
+      "covered": true
+    },
+    "100": {
+      "4glte": false,
+      "carriers": ["mot", "tln"],
+      "code": "BG",
+      "continent": "EU",
+      "covered": true
+    },
+    "104": {
+      "4glte": false,
+      "carriers": ["tln", "oor"],
+      "code": "MM",
+      "continent": "AS",
+      "covered": true
+    },
+    "108": {
+      "4glte": false,
+      "carriers": ["lac", "vtt"],
+      "code": "BI",
+      "continent": "AF",
+      "covered": true
+    },
+    "112": {
+      "4glte": false,
+      "carriers": ["jll", "uev"],
+      "code": "BY",
+      "continent": "EU",
+      "covered": true
+    },
+    "116": {
+      "4glte": false,
+      "carriers": ["vtt", "cam"],
+      "code": "KH",
+      "continent": "AS",
+      "covered": true
+    },
+    "120": {
+      "4glte": false,
+      "carriers": ["vtt", "mtn"],
+      "code": "CM",
+      "continent": "AF",
+      "covered": true
+    },
+    "124": {
+      "4glte": true,
+      "carriers": ["rog", "sas", "vid"],
+      "code": "CA",
+      "continent": "NA",
+      "covered": true
+    },
+    "132": {
+      "covered": false
+    },
+    "136": {
+      "4glte": false,
+      "carriers": ["cab"],
+      "code": "KY",
+      "continent": "NA",
+      "covered": true
+    },
+    "140": {
+      "covered": false
+    },
+    "144": {
+      "4glte": false,
+      "carriers": ["dia", "mbt", "ets", "hut"],
+      "code": "LK",
+      "continent": "AS",
+      "covered": true
+    },
+    "148": {
+      "4glte": false,
+      "carriers": ["air"],
+      "code": "TD",
+      "continent": "AF",
+      "covered": true
+    },
+    "152": {
+      "4glte": false,
+      "carriers": ["tfa", "ent", "cla"],
+      "code": "CL",
+      "continent": "SA",
+      "covered": true
+    },
+    "156": {
+      "4glte": true,
+      "carriers": ["chi", "chu"],
+      "code": "CN",
+      "continent": "AS",
+      "covered": true
+    },
+    "158": {
+      "4glte": true,
+      "carriers": ["cht", "tst", "tmc", "far"],
+      "code": "TW",
+      "continent": "AS",
+      "covered": true
+    },
+    "162": {
+      "covered": false
+    },
+    "166": {
+      "covered": false
+    },
+    "170": {
+      "4glte": false,
+      "carriers": ["col"],
+      "code": "CO",
+      "continent": "SA",
+      "covered": true
+    },
+    "174": {
+      "covered": false
+    },
+    "175": {
+      "covered": false
+    },
+    "178": {
+      "4glte": false,
+      "carriers": ["air", "vdc", "ora", "afr"],
+      "code": "CG",
+      "continent": "AF",
+      "covered": true
+    },
+    "180": {
+      "4glte": false,
+      "carriers": ["air", "vdc", "ora", "afr"],
+      "code": "CD",
+      "continent": "AF",
+      "covered": true
+    },
+    "184": {
+      "covered": false
+    },
+    "188": {
+      "4glte": false,
+      "carriers": ["mov", "cla", "ins"],
+      "code": "CR",
+      "continent": "NA",
+      "covered": true
+    },
+    "191": {
+      "4glte": true,
+      "carriers": ["tl2", "vip"],
+      "code": "HR",
+      "continent": "EU",
+      "covered": true
+    },
+    "192": {
+      "covered": false
+    },
+    "196": {
+      "4glte": false,
+      "carriers": ["cyp", "mtn", "pri"],
+      "code": "CY",
+      "continent": "EU",
+      "covered": true
+    },
+    "203": {
+      "4glte": true,
+      "carriers": ["vdf", "tmo", "o2o"],
+      "code": "CZ",
+      "continent": "EU",
+      "covered": true
+    },
+    "204": {
+      "4glte": false,
+      "carriers": ["ets", "gbl"],
+      "code": "BJ",
+      "continent": "AF",
+      "covered": true
+    },
+    "208": {
+      "4glte": true,
+      "carriers": ["hi3", "tla", "tln", "tdc"],
+      "code": "DK",
+      "continent": "EU",
+      "covered": true
+    },
+    "212": {
+      "4glte": false,
+      "carriers": ["cab"],
+      "code": "DM",
+      "continent": "NA",
+      "covered": true
+    },
+    "214": {
+      "4glte": false,
+      "carriers": ["cdt"],
+      "code": "DO",
+      "continent": "NA",
+      "covered": true
+    },
+    "218": {
+      "4glte": false,
+      "carriers": ["ote", "cnt"],
+      "code": "EC",
+      "continent": "SA",
+      "covered": true
+    },
+    "222": {
+      "4glte": false,
+      "carriers": ["dgc", "tfa", "cte", "tes"],
+      "code": "SV",
+      "continent": "NA",
+      "covered": true
+    },
+    "226": {
+      "covered": false
+    },
+    "231": {
+      "covered": false
+    },
+    "232": {
+      "covered": false
+    },
+    "233": {
+      "4glte": true,
+      "carriers": ["tla", "tl2", "eli"],
+      "code": "EE",
+      "continent": "EU",
+      "covered": true
+    },
+    "234": {
+      "4glte": false,
+      "carriers": ["fat"],
+      "code": "FO",
+      "continent": "EU",
+      "covered": true
+    },
+    "238": {
+      "covered": false
+    },
+    "239": {
+      "covered": false
+    },
+    "242": {
+      "4glte": false,
+      "carriers": ["dgc"],
+      "code": "FJ",
+      "continent": "OC",
+      "covered": true
+    },
+    "246": {
+      "4glte": true,
+      "carriers": ["tla", "ala", "eli", "dna"],
+      "code": "FI",
+      "continent": "EU",
+      "covered": true
+    },
+    "248": {
+      "4glte": true,
+      "carriers": ["tla", "ala", "eli", "dna"],
+      "code": "FI",
+      "continent": "EU",
+      "covered": true
+    },
+    "250": {
+      "4glte": true,
+      "carriers": ["ora", "fre", "sfr", "bou"],
+      "code": "FR",
+      "continent": "EU",
+      "covered": true
+    },
+    "254": {
+      "covered": false
+    },
+    "258": {
+      "covered": false
+    },
+    "260": {
+      "covered": false
+    },
+    "262": {
+      "covered": false
+    },
+    "266": {
+      "covered": false
+    },
+    "268": {
+      "4glte": false,
+      "carriers": ["mot", "geo"],
+      "code": "GE",
+      "continent": "AS",
+      "covered": true
+    },
+    "270": {
+      "covered": false
+    },
+    "275": {
+      "covered": false
+    },
+    "276": {
+      "4glte": true,
+      "carriers": ["vdf", "tkm", "tfc"],
+      "code": "DE",
+      "continent": "EU",
+      "covered": true
+    },
+    "288": {
+      "4glte": true,
+      "carriers": ["vdf", "mil", "air", "glo"],
+      "code": "GH",
+      "continent": "AF",
+      "covered": true
+    },
+    "292": {
+      "4glte": false,
+      "carriers": ["gib"],
+      "code": "GI",
+      "continent": "EU",
+      "covered": true
+    },
+    "296": {
+      "covered": false
+    },
+    "300": {
+      "4glte": true,
+      "carriers": ["vdf", "cos", "win"],
+      "code": "GR",
+      "continent": "EU",
+      "covered": true
+    },
+    "304": {
+      "4glte": false,
+      "carriers": ["tgl"],
+      "code": "GL",
+      "continent": "NA",
+      "covered": true
+    },
+    "308": {
+      "4glte": false,
+      "carriers": ["cab"],
+      "code": "GD",
+      "continent": "NA",
+      "covered": true
+    },
+    "312": {
+      "4glte": false,
+      "carriers": ["dgc", "ora"],
+      "code": "GP",
+      "continent": "NA",
+      "covered": true
+    },
+    "316": {
+      "covered": false
+    },
+    "320": {
+      "4glte": false,
+      "carriers": ["tfc", "tgu"],
+      "code": "GT",
+      "continent": "NA",
+      "covered": true
+    },
+    "324": {
+      "4glte": false,
+      "carriers": ["are", "org"],
+      "code": "GN",
+      "continent": "AF",
+      "covered": true
+    },
+    "328": {
+      "4glte": false,
+      "carriers": ["umo"],
+      "code": "GY",
+      "continent": "SA",
+      "covered": true
+    },
+    "332": {
+      "4glte": false,
+      "carriers": ["cch", "vtt"],
+      "code": "HT",
+      "continent": "NA",
+      "covered": true
+    },
+    "334": {
+      "covered": false
+    },
+    "336": {
+      "covered": false
+    },
+    "340": {
+      "4glte": false,
+      "carriers": ["ser", "tfc"],
+      "code": "HN",
+      "continent": "NA",
+      "covered": true
+    },
+    "344": {
+      "4glte": true,
+      "carriers": ["hut", "chi", "hon", "smc"],
+      "code": "HK",
+      "continent": "AS",
+      "covered": true
+    },
+    "348": {
+      "4glte": true,
+      "carriers": ["vdf", "tmo", "tln"],
+      "code": "HU",
+      "continent": "EU",
+      "covered": true
+    },
+    "352": {
+      "4glte": false,
+      "carriers": ["nov", "sim", "vdf"],
+      "code": "IC",
+      "continent": "EU",
+      "covered": true
+    },
+    "356": {
+      "4glte": true,
+      "carriers": ["tat", "aic", "vdf", "bha", "mah", "bhr", "ide", "rel"],
+      "code": "IN",
+      "continent": "AS",
+      "covered": true
+    },
+    "360": {
+      "4glte": false,
+      "carriers": ["ptt"],
+      "code": "ID",
+      "continent": "AS",
+      "covered": true
+    },
+    "364": {
+      "4glte": false,
+      "carriers": ["mci", "rig", "ira"],
+      "code": "IR",
+      "continent": "AS",
+      "covered": true
+    },
+    "368": {
+      "covered": false
+    },
+    "372": {
+      "4glte": true,
+      "carriers": ["til", "met", "vdf"],
+      "code": "IE",
+      "continent": "EU",
+      "covered": true
+    },
+    "376": {
+      "4glte": true,
+      "carriers": ["pcl", "hot", "pcc", "cil"],
+      "code": "IL",
+      "continent": "AS",
+      "covered": true
+    },
+    "380": {
+      "4glte": true,
+      "carriers": ["vdf", "tco", "h3g", "win"],
+      "code": "IT",
+      "continent": "EU",
+      "covered": true
+    },
+    "384": {
+      "4glte": false,
+      "carriers": ["mtn", "atl"],
+      "code": "CI",
+      "continent": "AF",
+      "covered": true
+    },
+    "388": {
+      "4glte": false,
+      "carriers": ["cab", "dgc"],
+      "code": "JM",
+      "continent": "NA",
+      "covered": true
+    },
+    "392": {
+      "4glte": true,
+      "carriers": ["sof", "ntt"],
+      "code": "JP",
+      "continent": "AS",
+      "covered": true
+    },
+    "398": {
+      "4glte": false,
+      "carriers": ["mtl", "kar", "kcl"],
+      "code": "KZ",
+      "continent": "AS",
+      "covered": true
+    },
+    "400": {
+      "4glte": false,
+      "carriers": ["zaj", "orj"],
+      "code": "JO",
+      "continent": "AS",
+      "covered": true
+    },
+    "404": {
+      "4glte": false,
+      "carriers": ["tkl", "saf", "air"],
+      "code": "KE",
+      "continent": "AF",
+      "covered": true
+    },
+    "408": {
+      "4glte": true,
+      "carriers": ["lgu", "ktc", "skt"],
+      "code": "KR",
+      "continent": "AS",
+      "covered": true
+    },
+    "410": {
+      "covered": false
+    },
+    "414": {
+      "4glte": false,
+      "carriers": ["kuw"],
+      "code": "KW",
+      "continent": "AS",
+      "covered": true
+    },
+    "417": {
+      "4glte": false,
+      "carriers": ["sky"],
+      "code": "KG",
+      "continent": "AS",
+      "covered": true
+    },
+    "418": {
+      "4glte": false,
+      "carriers": ["vmc", "vtt"],
+      "code": "LA",
+      "continent": "AS",
+      "covered": true
+    },
+    "422": {
+      "covered": false
+    },
+    "426": {
+      "covered": false
+    },
+    "428": {
+      "4glte": true,
+      "carriers": ["lat", "tl2"],
+      "code": "LV",
+      "continent": "EU",
+      "covered": true
+    },
+    "430": {
+      "covered": false
+    },
+    "434": {
+      "covered": false
+    },
+    "438": {
+      "4glte": false,
+      "carriers": ["tco"],
+      "code": "LI",
+      "continent": "EU",
+      "covered": true
+    },
+    "440": {
+      "4glte": true,
+      "carriers": ["omn", "uab"],
+      "code": "LT",
+      "continent": "EU",
+      "covered": true
+    },
+    "442": {
+      "4glte": true,
+      "carriers": ["pol", "tan"],
+      "code": "LU",
+      "continent": "EU",
+      "covered": true
+    },
+    "446": {
+      "4glte": true,
+      "carriers": ["hut", "ctm"],
+      "code": "MO",
+      "continent": "AS",
+      "covered": true
+    },
+    "450": {
+      "covered": false
+    },
+    "454": {
+      "covered": false
+    },
+    "458": {
+      "4glte": true,
+      "carriers": ["cel", "max", "dgs", "umo"],
+      "code": "MY",
+      "continent": "AS",
+      "covered": true
+    },
+    "462": {
+      "covered": false
+    },
+    "466": {
+      "4glte": false,
+      "carriers": ["ora"],
+      "code": "ML",
+      "continent": "AF",
+      "covered": true
+    },
+    "470": {
+      "4glte": false,
+      "carriers": ["vdf", "gop"],
+      "code": "MT",
+      "continent": "EU",
+      "covered": true
+    },
+    "474": {
+      "covered": false
+    },
+    "478": {
+      "covered": false
+    },
+    "480": {
+      "covered": false
+    },
+    "484": {
+      "4glte": true,
+      "carriers": ["mov", "att", "rad"],
+      "code": "MX",
+      "continent": "NA",
+      "covered": true
+    },
+    "492": {
+      "covered": false
+    },
+    "496": {
+      "4glte": false,
+      "carriers": ["unt", "mbc"],
+      "code": "MN",
+      "continent": "AS",
+      "covered": true
+    },
+    "498": {
+      "4glte": false,
+      "carriers": ["mol", "ora"],
+      "code": "MD",
+      "continent": "EU",
+      "covered": true
+    },
+    "499": {
+      "4glte": false,
+      "carriers": ["mte", "tln"],
+      "code": "ME",
+      "continent": "EU",
+      "covered": true
+    },
+    "500": {
+      "4glte": false,
+      "carriers": ["cab"],
+      "code": "MS",
+      "continent": "NA",
+      "covered": true
+    },
+    "504": {
+      "4glte": false,
+      "carriers": ["iti", "ora", "wan"],
+      "code": "MA",
+      "continent": "AF",
+      "covered": true
+    },
+    "508": {
+      "covered": false
+    },
+    "512": {
+      "4glte": false,
+      "carriers": ["otc", "oqt"],
+      "code": "OM",
+      "continent": "AS",
+      "covered": true
+    },
+    "516": {
+      "covered": false
+    },
+    "520": {
+      "covered": false
+    },
+    "524": {
+      "4glte": false,
+      "carriers": ["ntc", "ncl"],
+      "code": "NP",
+      "continent": "AS",
+      "covered": true
+    },
+    "528": {
+      "4glte": true,
+      "carriers": ["vdf", "tmo", "kpn"],
+      "code": "NL",
+      "continent": "EU",
+      "covered": true
+    },
+    "531": {
+      "covered": false
+    },
+    "533": {
+      "4glte": false,
+      "carriers": ["new"],
+      "code": "AW",
+      "continent": "NA",
+      "covered": true
+    },
+    "534": {
+      "covered": false
+    },
+    "535": {
+      "covered": false
+    },
+    "540": {
+      "covered": false
+    },
+    "548": {
+      "covered": false
+    },
+    "554": {
+      "4glte": true,
+      "carriers": ["vdf", "two"],
+      "code": "NZ",
+      "continent": "OC",
+      "covered": true
+    },
+    "558": {
+      "4glte": false,
+      "carriers": ["tfc", "emp"],
+      "code": "NI",
+      "continent": "NA",
+      "covered": true
+    },
+    "562": {
+      "covered": false
+    },
+    "566": {
+      "4glte": false,
+      "carriers": ["mtn", "eme", "gll", "air"],
+      "code": "NG",
+      "continent": "AF",
+      "covered": true
+    },
+    "570": {
+      "covered": false
+    },
+    "574": {
+      "covered": false
+    },
+    "578": {
+      "4glte": true,
+      "carriers": ["tla", "tln", "aer"],
+      "code": "NO",
+      "continent": "EU",
+      "covered": true
+    },
+    "580": {
+      "covered": false
+    },
+    "581": {
+      "covered": false
+    },
+    "583": {
+      "covered": false
+    },
+    "584": {
+      "covered": false
+    },
+    "585": {
+      "covered": false
+    },
+    "586": {
+      "4glte": false,
+      "carriers": ["pmc", "war", "ptm"],
+      "code": "PK",
+      "continent": "AS",
+      "covered": true
+    },
+    "591": {
+      "4glte": false,
+      "carriers": ["dgc", "tfa", "cla", "cab"],
+      "code": "PA",
+      "continent": "NA",
+      "covered": true
+    },
+    "598": {
+      "4glte": false,
+      "carriers": ["dgc"],
+      "code": "PG",
+      "continent": "OC",
+      "covered": true
+    },
+    "600": {
+      "4glte": false,
+      "carriers": ["nuc", "amx", "hol", "tfc"],
+      "code": "PY",
+      "continent": "SA",
+      "covered": true
+    },
+    "604": {
+      "4glte": false,
+      "carriers": ["tfa", "vtt", "ame"],
+      "code": "PE",
+      "continent": "SA",
+      "covered": true
+    },
+    "608": {
+      "4glte": true,
+      "carriers": ["glt", "sma", "dmp"],
+      "code": "PH",
+      "continent": "AS",
+      "covered": true
+    },
+    "612": {
+      "covered": false
+    },
+    "616": {
+      "4glte": true,
+      "carriers": ["pok", "p4s", "tmo", "ora"],
+      "code": "PL",
+      "continent": "EU",
+      "covered": true
+    },
+    "620": {
+      "4glte": true,
+      "carriers": ["vdf", "nos", "meo"],
+      "code": "PT",
+      "continent": "EU",
+      "covered": true
+    },
+    "624": {
+      "4glte": false,
+      "carriers": ["are", "ora"],
+      "code": "GW",
+      "continent": "AF",
+      "covered": true
+    },
+    "626": {
+      "4glte": false,
+      "carriers": ["vtt"],
+      "code": "TL",
+      "continent": "OC",
+      "covered": true
+    },
+    "630": {
+      "4glte": false,
+      "carriers": ["prt"],
+      "code": "PR",
+      "continent": "NA",
+      "covered": true
+    },
+    "634": {
+      "4glte": false,
+      "carriers": ["oor", "vdf"],
+      "code": "QA",
+      "continent": "AS",
+      "covered": true
+    },
+    "638": {
+      "covered": false
+    },
+    "642": {
+      "4glte": true,
+      "carriers": ["ora", "vdf", "tkm"],
+      "code": "RO",
+      "continent": "EU",
+      "covered": true
+    },
+    "643": {
+      "4glte": true,
+      "carriers": ["mts", "vmc", "llc", "meg"],
+      "code": "RU",
+      "continent": "EU",
+      "covered": true
+    },
+    "646": {
+      "4glte": false,
+      "carriers": ["mtn", "tig"],
+      "code": "RW",
+      "continent": "AF",
+      "covered": true
+    },
+    "652": {
+      "covered": false
+    },
+    "654": {
+      "covered": false
+    },
+    "659": {
+      "4glte": false,
+      "carriers": ["cab"],
+      "code": "KN",
+      "continent": "NA",
+      "covered": true
+    },
+    "660": {
+      "4glte": false,
+      "carriers": ["cab"],
+      "code": "AI",
+      "continent": "NA",
+      "covered": true
+    },
+    "662": {
+      "4glte": false,
+      "carriers": ["cab"],
+      "code": "LC",
+      "continent": "NA",
+      "covered": true
+    },
+    "663": {
+      "covered": false
+    },
+    "666": {
+      "covered": false
+    },
+    "670": {
+      "4glte": false,
+      "carriers": ["cab"],
+      "code": "VC",
+      "continent": "NA",
+      "covered": true
+    },
+    "674": {
+      "covered": false
+    },
+    "678": {
+      "covered": false
+    },
+    "682": {
+      "4glte": true,
+      "carriers": ["sau", "mtc", "eec"],
+      "code": "SA",
+      "continent": "AS",
+      "covered": true
+    },
+    "686": {
+      "4glte": false,
+      "carriers": ["sen"],
+      "code": "SN",
+      "continent": "AF",
+      "covered": true
+    },
+    "688": {
+      "4glte": false,
+      "carriers": ["tln"],
+      "code": "RS",
+      "continent": "EU",
+      "covered": true
+    },
+    "690": {
+      "covered": false
+    },
+    "694": {
+      "covered": false
+    },
+    "702": {
+      "4glte": true,
+      "carriers": ["m1l", "sta", "sin"],
+      "code": "SG",
+      "continent": "AS",
+      "covered": true
+    },
+    "703": {
+      "4glte": false,
+      "carriers": ["slo", "o2o", "ora"],
+      "code": "SK",
+      "continent": "EU",
+      "covered": true
+    },
+    "704": {
+      "covered": false
+    },
+    "705": {
+      "4glte": false,
+      "carriers": ["smd", "tkm", "tlm"],
+      "code": "SI",
+      "continent": "EU",
+      "covered": true
+    },
+    "706": {
+      "covered": false
+    },
+    "710": {
+      "4glte": true,
+      "carriers": ["vdc", "mnt", "cec"],
+      "code": "ZA",
+      "continent": "AF",
+      "covered": true
+    },
+    "716": {
+      "covered": false
+    },
+    "724": {
+      "4glte": true,
+      "carriers": ["vdf", "xfe", "ora", "tfa"],
+      "code": "ES",
+      "continent": "EU",
+      "covered": true
+    },
+    "728": {
+      "covered": false
+    },
+    "729": {
+      "covered": false
+    },
+    "732": {
+      "covered": false
+    },
+    "740": {
+      "4glte": false,
+      "carriers": ["tle", "dgc"],
+      "code": "SR",
+      "continent": "SA",
+      "covered": true
+    },
+    "744": {
+      "covered": false
+    },
+    "748": {
+      "covered": false
+    },
+    "752": {
+      "4glte": true,
+      "carriers": ["hi3", "tla", "tl2", "tln"],
+      "code": "SE",
+      "continent": "EU",
+      "covered": true
+    },
+    "756": {
+      "4glte": true,
+      "carriers": ["swi", "sca", "sal"],
+      "code": "CH",
+      "continent": "EU",
+      "covered": true
+    },
+    "760": {
+      "covered": false
+    },
+    "762": {
+      "4glte": false,
+      "carriers": ["tac"],
+      "code": "TJ",
+      "continent": "AS",
+      "covered": true
+    },
+    "764": {
+      "4glte": true,
+      "carriers": ["tru", "adv", "dta", "tot"],
+      "code": "TH",
+      "continent": "AS",
+      "covered": true
+    },
+    "768": {
+      "covered": false
+    },
+    "772": {
+      "covered": false
+    },
+    "776": {
+      "covered": false
+    },
+    "780": {
+      "4glte": false,
+      "carriers": ["dgc"],
+      "code": "TT",
+      "continent": "NA",
+      "covered": true
+    },
+    "784": {
+      "4glte": false,
+      "carriers": ["emi"],
+      "code": "AE",
+      "continent": "AS",
+      "covered": true
+    },
+    "788": {
+      "covered": false
+    },
+    "792": {
+      "4glte": true,
+      "carriers": ["ave", "vdf", "tur"],
+      "code": "TR",
+      "continent": "AS",
+      "covered": true
+    },
+    "795": {
+      "covered": false
+    },
+    "796": {
+      "4glte": true,
+      "carriers": ["cab"],
+      "code": "TC",
+      "continent": "NA",
+      "covered": true
+    },
+    "798": {
+      "covered": false
+    },
+    "800": {
+      "4glte": false,
+      "carriers": ["uga", "mtn", "afr", "sul", "air"],
+      "code": "UG",
+      "continent": "AF",
+      "covered": true
+    },
+    "804": {
+      "4glte": false,
+      "carriers": ["kyi", "lif", "tri", "mts"],
+      "code": "UA",
+      "continent": "EU",
+      "covered": true
+    },
+    "807": {
+      "4glte": true,
+      "carriers": ["one"],
+      "code": "MK",
+      "continent": "EU",
+      "covered": true
+    },
+    "818": {
+      "4glte": false,
+      "carriers": ["ora", "vdf", "ets"],
+      "code": "EG",
+      "continent": "AF",
+      "covered": true
+    },
+    "826": {
+      "4glte": true,
+      "carriers": ["vdf", "hut", "mat", "eel", "tfa"],
+      "code": "GB",
+      "continent": "EU",
+      "covered": true
+    },
+    "831": {
+      "covered": false
+    },
+    "832": {
+      "covered": false
+    },
+    "833": {
+      "covered": false
+    },
+    "834": {
+      "4glte": false,
+      "carriers": ["ben", "vtt", "mic", "zan", "vdc", "air"],
+      "code": "TZ",
+      "continent": "AF",
+      "covered": true
+    },
+    "840": {
+      "4glte": true,
+      "carriers": ["att", "spr", "tmo", "vzw", "reg"],
+      "code": "US",
+      "continent": "NA",
+      "covered": true
+    },
+    "850": {
+      "covered": false
+    },
+    "854": {
+      "4glte": false,
+      "carriers": ["air"],
+      "code": "BF",
+      "continent": "AF",
+      "covered": true
+    },
+    "858": {
+      "4glte": false,
+      "carriers": ["tfa", "amw"],
+      "code": "UY",
+      "continent": "SA",
+      "covered": true
+    },
+    "860": {
+      "4glte": false,
+      "carriers": ["unt", "fec"],
+      "code": "UZ",
+      "continent": "AS",
+      "covered": true
+    },
+    "862": {
+      "4glte": false,
+      "carriers": ["tfa"],
+      "code": "VE",
+      "continent": "SA",
+      "covered": true
+    },
+    "876": {
+      "covered": false
+    },
+    "882": {
+      "4glte": false,
+      "carriers": ["dgc"],
+      "code": "WS",
+      "continent": "OC",
+      "covered": true
+    },
+    "887": {
+      "covered": false
+    },
+    "894": {
+      "4glte": false,
+      "carriers": ["zam"],
+      "code": "ZM",
+      "continent": "AF",
+      "covered": true
+    }
+  },
+  "carriers": {
+    "a1t":"A1 Telekom",
+    "adv":"Advanced Wireless",
+    "aer":"AeroMobile",
+    "afg":"Afghan Wireless",
+    "afr":"Africell",
+    "aic":"Aircel Limited",
+    "air":"Airtel",
+    "ala":"Ålands Telekommunikation Ab",
+    "alm":"Al Madar Al Jadeed",
+    "ame":"América Móvil Perú",
+    "amw":"AM Wireless Uruguay",
+    "amx":"AMX",
+    "and":"Andorra Telecom",
+    "are":"Areeba Guinée",
+    "arm":"Armenia Telephone Company",
+    "asi":"Asiacell",
+    "atl":"Atlantique Telecom",
+    "att":"AT&T",
+    "ave":"Avea Iletisim Hizmetleri",
+    "awn":"The Alaska Wireless Network",
+    "aze":"Azercell",
+    "azf":"Azerfon LLC",
+    "bah":"Bahrain",
+    "bak":"Bakcell",
+    "ban":"Banglalink",
+    "bel":"Belize Telemedia",
+    "bem":"BeMobile",
+    "ben":"Benson",
+    "ber":"Bermuda Digital Communications",
+    "bha":"Bharat Sanchar Nigam",
+    "bhr":"Bharti Airtel",
+    "bou":"Bouygues Télécom",
+    "btc":"The Bahamas Telecommunications Company",
+    "cab":"Cable & Wireless",
+    "cam":"Cambodia Advance Communications Co.",
+    "car":"Caribbean Cellular Telephone",
+    "cbw":"Cincinnati Bell",
+    "cch":"Communication Cellulaire d'Haiti SA",
+    "cdt":"Compañia Dominicana de Teléfonos",
+    "cec":"Cell C",
+    "cel":"Celcom Axiata Berhad",
+    "cep":"Cellplus Mobile",
+    "cet":"Celtel Gabon S.A.",
+    "chi":"China Mobile",
+    "cht":"Chunghwa Telecom",
+    "chu":"China Unicom",
+    "cil":"Cellcom",
+    "cla":"Claro",
+    "cnt":"Corporación Nacional de Telecomunicaciones",
+    "col":"Colombia Telecomunicaciones",
+    "com":"Commnet Wireless",
+    "cos":"Cosmote Mobile",
+    "cte":"CTE Telecom Personal",
+    "ctm":"Companhia de Telecomunicações de Macau",
+    "cur":"Curaçao Telecom N.V.",
+    "cvm":"CVMóvel",
+    "cyp":"Cyprus Telecommunications",
+    "dgc":"Digicel",
+    "dgs":"Digi Telecommunications",
+    "dhi":"Dhivehi Raajjeyge Gulhun",
+    "dia":"Dialog Axiata",
+    "dji":"Djibouti Telecom",
+    "dmp":"Digitel Mobile Phils",
+    "dna":"DNA Ltd",
+    "doc":"DOCOMO PACIFIC",
+    "dta":"Dtac TriNet Co.",
+    "eag":"Eagle Mobile",
+    "eco":"Econet Telecom Lesotho",
+    "eec":"Etihad Etisalat Company",
+    "eel":"EE Limited",
+    "eli":"Elisa",
+    "eme":"Emerging Markets Telecommunication",
+    "emi":"Emirates Telecommunications",
+    "emp":"Empresa de Telecommunicaciones",
+    "ent":"Entel PCS",
+    "ets":"Etisalat",
+    "far":"Far EasTone",
+    "fat":"Faroese",
+    "fec":"FE Coscom",
+    "fre":"Free Mobile",
+    "gbl":"Glomobile Benin",
+    "geo":"Geocell",
+    "gib":"Gibtelecom",
+    "gll":"Globacom",
+    "glo":"Glo Mobile Ghana",
+    "glt":"Globe",
+    "gop":"GO p.l.c.",
+    "gra":"Grameenphone",
+    "gre":"Green Com",
+    "h3g":"H3G S.p.A.",
+    "hi3":"Hi3G",
+    "hol":"Hola Paraguay",
+    "hon":"Hong Kong Telecommunications",
+    "hot":"Hot Mobile",
+    "hte":"HT Eronet",
+    "hut":"Hutchison",
+    "ide":"Idea Cellular",
+    "ind":"Indigo Wireless",
+    "ins":"Instituto Costarricense de Electricidad",
+    "ira":"Irancell",
+    "iti":"Itissalat Al-Maghrib",
+    "jll":"JLLC Mobile TeleSystems",
+    "jtl":"JT (Jersey) Limited",
+    "kar":"KaR-Tel",
+    "kcl":"Kcell JSC",
+    "kpn":"KPN B.V.",
+    "ktc":"KT Corporation",
+    "ktl":"K Telecom",
+    "kuw":"Kuwait Telecom",
+    "kyi":"Kyivstar",
+    "lac":"Lacell SU",
+    "lat":"Latvijas Mobilais",
+    "lgu":"LG Uplus",
+    "lif":"Lifecell",
+    "lim":"Limitless Mobile",
+    "lin":"Lintel (SL)",
+    "llc":"LLC T2 Mobile",
+    "m1l":"M1 Limited",
+    "mah":"Mahanagar Telephone",
+    "mat":"Manx Telecom",
+    "max":"Maxis Broadband Sdn. Bhd.",
+    "mbc":"MobiCom",
+    "mbf":"Mobifone",
+    "mbt":"Mobitel",
+    "mcc":"Mobile Telecommunications Company",
+    "mci":"MCI/TCI",
+    "meg":"MegaFon PJSC",
+    "meo":"MEO - Serviços de Comunicações e Multimédia SA",
+    "met":"Meteor Mobile Communications",
+    "mic":"MIC Tanzania",
+    "mil":"Millicom Ghana",
+    "mnt":"Mobile Telephone Networks",
+    "mob":"Mobile Interim Company",
+    "moc":"Moçambique Celular",
+    "mol":"Moldcell S.A",
+    "mon":"Monaco Telecom S.A.M.",
+    "moo":"MOOV - Libertis S.A",
+    "mot":"Mobiltel",
+    "mov":"MOVISTAR",
+    "mtc":"MTC Saudi Arabia (Zain)",
+    "mte":"MTEL d.o.o. Podgorica",
+    "mtl":"Mobile Telecom-Service LLP",
+    "mtn":"MTN",
+    "mts":"MTS",
+    "ncl":"Ncell",
+    "nec":"NE Colorado Cellular, Inc",
+    "new":"New Millennium Telecom",
+    "nex":"Nexttel - Viettel Group",
+    "nmt":"National Mobile",
+    "nos":"NOS – Comunicações",
+    "nov":"Nova ehf.",
+    "ntc":"Nepal Telecom",
+    "ntt":"NTT Docomo",
+    "nuc":"Núcleo",
+    "nue":"Nuevatel PCS de Bolivia",
+    "o2o":"O2",
+    "off":"Office des Postes et Telecommunications",
+    "oim":"Oi Móvel",
+    "omn":"Omnitel",
+    "one":"one.Vip DOO Skopje",
+    "oor":"Ooredoo",
+    "opt":"Optimum Telecom Algeria Spa",
+    "oqt":"Omani Qatari Telecommunication",
+    "ora":"Orange",
+    "org":"Orange Guinée",
+    "orj":"Orange Jordan",
+    "otc":"Oman Telecommunications",
+    "ote":"Otecel Sociedad Anónima",
+    "p4s":"P4 Sp. z o.o.",
+    "pcc":"Partner Communications",
+    "pcl":"Pelephone Communication",
+    "pmc":"Pakistan Mobile",
+    "pok":"Polkomtel",
+    "pol":"POST Luxembourg",
+    "prg":"Progresif Cellular Sdn Bhd",
+    "pri":"PrimeTel PLC",
+    "prt":"Puerto Rico Telephone Company Inc.",
+    "prx":"Proximus PLC",
+    "ptm":"Pakistan Telecommunication Mobile",
+    "ptt":"PT",
+    "qcl":"QCell",
+    "rad":"Radiomóvil Dipsa",
+    "reg":"(Regional carriers available)",
+    "rel":"Reliance Communications Ltd.",
+    "rig":"RighTel",
+    "rog":"Rogers",
+    "rst":"RS Telecommunications JSC Banja Luka",
+    "saf":"Safaricom Limited",
+    "sal":"Salt Mobile SA",
+    "sas":"SaskTel",
+    "sau":"Saudi Telecom",
+    "sca":"Sunrise Communications AG",
+    "sen":"Sentel GSM",
+    "ser":"Servicios de Comunicaciones de Honduras",
+    "sfr":"Société Française du Radiotéléphone",
+    "sim":"Síminn h.f.",
+    "sin":"SingTel",
+    "skt":"SK Telecom",
+    "sky":"Sky Mobile LLC",
+    "slo":"Slovak Telekom",
+    "sma":"Smart Communications",
+    "smc":"SmarTone Mobile Communications",
+    "smd":"SI.Mobil d.d.",
+    "smt":"Sudanese Mobile Telephone",
+    "sof":"SoftBank Corp.",
+    "spr":"Sprint",
+    "sta":"StarHub Mobile",
+    "sul":"Suretelcom Uganda",
+    "swi":"Swisscom Ltd",
+    "tac":"Tacom",
+    "tan":"Tango SA",
+    "tat":"Tata Teleservices",
+    "tcl":"Telstra Corporation Limited",
+    "tco":"Telecom",
+    "tdc":"TDC A/S",
+    "tem":"Telma Malagasy",
+    "tes":"Telemovil El Salvador",
+    "tfa":"Telefónica",
+    "tfc":"Telefónia Celular",
+    "tgl":"Tele Greenland A/S",
+    "tgu":"Telecomunicaciones de Guatemala",
+    "tig":"TIGO",
+    "til":"Three Ireland Limited",
+    "tim":"TIM Celular",
+    "tkl":"Telkom Kenya Limited",
+    "tkm":"Telekom",
+    "tl2":"Tele2",
+    "tla":"Telia",
+    "tlc":"Telecel",
+    "tle":"TLESUR",
+    "tlm":"Telemach",
+    "tln":"Telenor",
+    "tmc":"Taiwan Mobile Co.",
+    "tmo":"T-Mobile",
+    "tmv":"Telemovil",
+    "tng":"Telenet Group",
+    "tot":"Total Access Communications",
+    "tri":"TriMob",
+    "tru":"True Move H Universal Communication Co.",
+    "tst":"Taiwan Star Telecom",
+    "tur":"Turkcell Iletisim Hizmetleri",
+    "two":"Two Degrees Mobile Limited",
+    "uab":"UAB",
+    "uco":"UCOM",
+    "uev":"Unitary enterprise velcom",
+    "uga":"Uganda Telecom",
+    "umo":"U-Mobile",
+    "uni":"Union Telephone Company",
+    "unt":"Unitel",
+    "usg":"USAN-Gabon",
+    "vdc":"Vodacom",
+    "vdf":"Vodafone",
+    "vid":"Videotron",
+    "vin":"Vini",
+    "vip":"VIPnet",
+    "viv":"Vivo",
+    "vmc":"VimpelCom",
+    "vpt":"Vietnam Posts and Telecommunications Group",
+    "vtt":"Viettel",
+    "vzw":"Verizon Wireless",
+    "wan":"Wana Corporate",
+    "war":"Warid Telecom (Private) Limited",
+    "wat":"Wataniya Télécom Algérie",
+    "win":"WIND",
+    "xfe":"Xfera Móviles",
+    "yem":"Yemen Mobile Phone Company",
+    "zai":"Zain",
+    "zaj":"Zain Jordan",
+    "zam":"ZAMTEL",
+    "zan":"Zanzibar Telecom"
+  }
+}
