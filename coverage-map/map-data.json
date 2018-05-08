@@ -790,7 +790,7 @@
     },
     "484": {
       "4glte": true,
-      "carriers": ["mov", "att", "rad"],
+      "carriers": ["mov", "att", "tel"],
       "code": "MX",
       "continent": "NA",
       "covered": true
@@ -1587,6 +1587,7 @@
     "tac":"Tacom",
     "tan":"Tango SA",
     "tat":"Tata Teleservices",
+    "tel":"Telcel Mexico",
     "tcl":"Telstra Corporation Limited",
     "tco":"Telecom",
     "tdc":"TDC A/S",
