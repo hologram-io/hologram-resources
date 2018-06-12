@@ -10,12 +10,24 @@
   },
   "countries": {
     "-1": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "-2": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "-3": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "4": {
@@ -33,18 +45,38 @@
       "covered": true
     },
     "10": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "12": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "16": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "20": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "24": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "28": {
@@ -83,9 +115,17 @@
       "covered": true
     },
     "44": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "48": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "50": {
@@ -124,6 +164,10 @@
       "covered": true
     },
     "64": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "68": {
@@ -141,9 +185,17 @@
       "covered": true
     },
     "72": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "74": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "76": {
@@ -161,9 +213,17 @@
       "covered": true
     },
     "86": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "90": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "92": {
@@ -230,6 +290,10 @@
       "covered": true
     },
     "132": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "136": {
@@ -240,6 +304,10 @@
       "covered": true
     },
     "140": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "144": {
@@ -278,9 +346,17 @@
       "covered": true
     },
     "162": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "166": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "170": {
@@ -291,9 +367,17 @@
       "covered": true
     },
     "174": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "175": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "178": {
@@ -311,6 +395,10 @@
       "covered": true
     },
     "184": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "188": {
@@ -328,6 +416,10 @@
       "covered": true
     },
     "192": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "196": {
@@ -387,12 +479,24 @@
       "covered": true
     },
     "226": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "231": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "232": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "233": {
@@ -410,9 +514,17 @@
       "covered": true
     },
     "238": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "239": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "242": {
@@ -444,18 +556,38 @@
       "covered": true
     },
     "254": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "258": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "260": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "262": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "266": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "268": {
@@ -466,9 +598,17 @@
       "covered": true
     },
     "270": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "275": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "276": {
@@ -493,6 +633,10 @@
       "covered": true
     },
     "296": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "300": {
@@ -524,6 +668,10 @@
       "covered": true
     },
     "316": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "320": {
@@ -555,9 +703,17 @@
       "covered": true
     },
     "334": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "336": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "340": {
@@ -603,9 +759,17 @@
       "covered": true
     },
     "364": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "368": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "372": {
@@ -672,6 +836,10 @@
       "covered": true
     },
     "408": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "410": {
@@ -703,9 +871,17 @@
       "covered": true
     },
     "422": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "426": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "428": {
@@ -716,9 +892,17 @@
       "covered": true
     },
     "430": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "434": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "438": {
@@ -750,9 +934,17 @@
       "covered": true
     },
     "450": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "454": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "458": {
@@ -763,6 +955,10 @@
       "covered": true
     },
     "462": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "466": {
@@ -780,12 +976,24 @@
       "covered": true
     },
     "474": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "478": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "480": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "484": {
@@ -796,6 +1004,10 @@
       "covered": true
     },
     "492": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "496": {
@@ -834,6 +1046,10 @@
       "covered": true
     },
     "508": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "512": {
@@ -844,9 +1060,17 @@
       "covered": true
     },
     "516": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "520": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "524": {
@@ -864,6 +1088,10 @@
       "covered": true
     },
     "531": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "533": {
@@ -874,15 +1102,31 @@
       "covered": true
     },
     "534": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "535": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "540": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "548": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "554": {
@@ -900,6 +1144,10 @@
       "covered": true
     },
     "562": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "566": {
@@ -910,9 +1158,17 @@
       "covered": true
     },
     "570": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "574": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "578": {
@@ -923,18 +1179,38 @@
       "covered": true
     },
     "580": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "581": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "583": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "584": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "585": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "586": {
@@ -980,6 +1256,10 @@
       "covered": true
     },
     "612": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "616": {
@@ -1025,6 +1305,10 @@
       "covered": true
     },
     "638": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "642": {
@@ -1049,9 +1333,17 @@
       "covered": true
     },
     "652": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "654": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "659": {
@@ -1076,9 +1368,17 @@
       "covered": true
     },
     "663": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "666": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "670": {
@@ -1089,9 +1389,17 @@
       "covered": true
     },
     "674": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "678": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "682": {
@@ -1116,9 +1424,17 @@
       "covered": true
     },
     "690": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "694": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "702": {
@@ -1136,6 +1452,10 @@
       "covered": true
     },
     "704": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "705": {
@@ -1146,6 +1466,10 @@
       "covered": true
     },
     "706": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "710": {
@@ -1156,6 +1480,10 @@
       "covered": true
     },
     "716": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "724": {
@@ -1166,12 +1494,24 @@
       "covered": true
     },
     "728": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "729": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "732": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "740": {
@@ -1182,9 +1522,17 @@
       "covered": true
     },
     "744": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "748": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "752": {
@@ -1202,6 +1550,10 @@
       "covered": true
     },
     "760": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "762": {
@@ -1219,12 +1571,24 @@
       "covered": true
     },
     "768": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "772": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "776": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "780": {
@@ -1242,6 +1606,10 @@
       "covered": true
     },
     "788": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "792": {
@@ -1252,6 +1620,10 @@
       "covered": true
     },
     "795": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "796": {
@@ -1262,6 +1634,10 @@
       "covered": true
     },
     "798": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "800": {
@@ -1300,12 +1676,24 @@
       "covered": true
     },
     "831": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "832": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "833": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "834": {
@@ -1323,6 +1711,10 @@
       "covered": true
     },
     "850": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "854": {
@@ -1354,6 +1746,10 @@
       "covered": true
     },
     "876": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "882": {
@@ -1364,6 +1760,10 @@
       "covered": true
     },
     "887": {
+      "4glte": false,
+      "carriers": [],
+      "code": "",
+      "continent": "",
       "covered": false
     },
     "894": {
