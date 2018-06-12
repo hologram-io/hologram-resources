@@ -14,1764 +14,2016 @@
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Northern Cyprus"
     },
     "-2": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Kosovo"
     },
     "-3": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Somaliland"
     },
     "4": {
       "4glte": false,
       "carriers": ["emi", "mtn", "afg"],
       "code": "AF",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Afghanistan"
     },
     "8": {
       "4glte": true,
       "carriers": ["vdf", "eag"],
       "code": "AL",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Albania"
     },
     "10": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Antarctica"
     },
     "12": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Algeria"
     },
     "16": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "American Samoa"
     },
     "20": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Andorra"
     },
     "24": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Angola"
     },
     "28": {
       "4glte": true,
       "carriers": ["cab"],
       "code": "AG",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Antigua and Barbuda"
     },
     "31": {
       "4glte": false,
       "carriers": ["aze", "azf", "bak"],
       "code": "AZ",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Azerbaijan"
     },
     "32": {
       "4glte": false,
       "carriers": ["tmv", "amx"],
       "code": "AR",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Argentina"
     },
     "36": {
       "4glte": true,
       "carriers": ["vdf", "sin", "tcl"],
       "code": "AU",
       "continent": "OC",
-      "covered": true
+      "covered": true,
+      "name": "Australia"
     },
     "40": {
       "4glte": true,
       "carriers": ["hut", "tmo", "a1t"],
       "code": "AT",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Austria"
     },
     "44": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Bahamas"
     },
     "48": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Bahrain"
     },
     "50": {
       "4glte": false,
       "carriers": ["ban", "gra"],
       "code": "BD",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Bangladesh"
     },
     "51": {
       "4glte": false,
       "carriers": ["arm", "uco", "ktl"],
       "code": "AM",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Armenia"
     },
     "52": {
       "4glte": false,
       "carriers": ["cab"],
       "code": "BB",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Barbados"
     },
     "56": {
       "4glte": true,
       "carriers": ["tng", "ora", "prx"],
       "code": "BE",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Belgium"
     },
     "60": {
       "4glte": false,
       "carriers": ["ber"],
       "code": "BM",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Bermuda"
     },
     "64": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Bhutan"
     },
     "68": {
       "4glte": false,
       "carriers": ["tig", "nue"],
       "code": "BO",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Bolivia, Plurinational State of"
     },
     "70": {
       "4glte": false,
       "carriers": ["hte", "rst"],
       "code": "BA",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Bosnia and Herzegovina"
     },
     "72": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Botswana"
     },
     "74": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Bouvet Island"
     },
     "76": {
       "4glte": true,
       "carriers": ["viv", "cla", "oim", "tim"],
       "code": "BR",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Brazil"
     },
     "84": {
       "4glte": false,
       "carriers": ["bel"],
       "code": "BZ",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Belize"
     },
     "86": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "British Indian Ocean Territory"
     },
     "90": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Solomon Islands"
     },
     "92": {
       "4glte": false,
       "carriers": ["cab", "car"],
       "code": "VG",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Virgin Islands, British"
     },
     "96": {
       "4glte": false,
       "carriers": ["prg"],
       "code": "BN",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Brunei Darussalam"
     },
     "100": {
       "4glte": false,
       "carriers": ["mot", "tln"],
       "code": "BG",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Bulgaria"
     },
     "104": {
       "4glte": false,
       "carriers": ["tln", "oor"],
       "code": "MM",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Myanmar"
     },
     "108": {
       "4glte": false,
       "carriers": ["lac", "vtt"],
       "code": "BI",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Burundi"
     },
     "112": {
       "4glte": false,
       "carriers": ["jll", "uev"],
       "code": "BY",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Belarus"
     },
     "116": {
       "4glte": false,
       "carriers": ["vtt", "cam"],
       "code": "KH",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Cambodia"
     },
     "120": {
       "4glte": false,
       "carriers": ["vtt", "mtn"],
       "code": "CM",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Cameroon"
     },
     "124": {
       "4glte": true,
       "carriers": ["rog", "sas", "vid"],
       "code": "CA",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Canada"
     },
     "132": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Cape Verde"
     },
     "136": {
       "4glte": false,
       "carriers": ["cab"],
       "code": "KY",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Cayman Islands"
     },
     "140": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Central African Republic"
     },
     "144": {
       "4glte": false,
       "carriers": ["dia", "mbt", "ets", "hut"],
       "code": "LK",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Sri Lanka"
     },
     "148": {
       "4glte": false,
       "carriers": ["air"],
       "code": "TD",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Chad"
     },
     "152": {
       "4glte": false,
       "carriers": ["tfa", "ent", "cla"],
       "code": "CL",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Chile"
     },
     "156": {
       "4glte": true,
       "carriers": ["chi", "chu"],
       "code": "CN",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "China"
     },
     "158": {
       "4glte": true,
       "carriers": ["cht", "tst", "tmc", "far"],
       "code": "TW",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Taiwan, Province of China"
     },
     "162": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Christmas Island"
     },
     "166": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Cocos (Keeling) Islands"
     },
     "170": {
       "4glte": false,
       "carriers": ["col"],
       "code": "CO",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Colombia"
     },
     "174": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Comoros"
     },
     "175": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Mayotte"
     },
     "178": {
       "4glte": false,
       "carriers": ["air", "vdc", "ora", "afr"],
       "code": "CG",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Congo"
     },
     "180": {
       "4glte": false,
       "carriers": ["air", "vdc", "ora", "afr"],
       "code": "CD",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Congo, the Democratic Republic of the"
     },
     "184": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Cook Islands"
     },
     "188": {
       "4glte": false,
       "carriers": ["mov", "cla", "ins"],
       "code": "CR",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Costa Rica"
     },
     "191": {
       "4glte": true,
       "carriers": ["tl2", "vip"],
       "code": "HR",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Croatia"
     },
     "192": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Cuba"
     },
     "196": {
       "4glte": false,
       "carriers": ["cyp", "mtn", "pri"],
       "code": "CY",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Cyprus"
     },
     "203": {
       "4glte": true,
       "carriers": ["vdf", "tmo", "o2o"],
       "code": "CZ",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Czech Republic"
     },
     "204": {
       "4glte": false,
       "carriers": ["ets", "gbl"],
       "code": "BJ",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Benin"
     },
     "208": {
       "4glte": true,
       "carriers": ["hi3", "tla", "tln", "tdc"],
       "code": "DK",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Denmark"
     },
     "212": {
       "4glte": false,
       "carriers": ["cab"],
       "code": "DM",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Dominica"
     },
     "214": {
       "4glte": false,
       "carriers": ["cdt"],
       "code": "DO",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Dominican Republic"
     },
     "218": {
       "4glte": false,
       "carriers": ["ote", "cnt"],
       "code": "EC",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Ecuador"
     },
     "222": {
       "4glte": false,
       "carriers": ["dgc", "tfa", "cte", "tes"],
       "code": "SV",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "El Salvador"
     },
     "226": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Equatorial Guinea"
     },
     "231": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Ethiopia"
     },
     "232": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Eritrea"
     },
     "233": {
       "4glte": true,
       "carriers": ["tla", "tl2", "eli"],
       "code": "EE",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Estonia"
     },
     "234": {
       "4glte": false,
       "carriers": ["fat"],
       "code": "FO",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Faroe Islands"
     },
     "238": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Falkland Islands (Malvinas)"
     },
     "239": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "South Georgia and the South Sandwich Islands"
     },
     "242": {
       "4glte": false,
       "carriers": ["dgc"],
       "code": "FJ",
       "continent": "OC",
-      "covered": true
+      "covered": true,
+      "name": "Fiji"
     },
     "246": {
       "4glte": true,
       "carriers": ["tla", "ala", "eli", "dna"],
       "code": "FI",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Finland"
     },
     "248": {
       "4glte": true,
       "carriers": ["tla", "ala", "eli", "dna"],
       "code": "FI",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Åland Islands"
     },
     "250": {
       "4glte": true,
       "carriers": ["ora", "fre", "sfr", "bou"],
       "code": "FR",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "France"
     },
     "254": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "French Guiana"
     },
     "258": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "French Polynesia"
     },
     "260": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "French Southern Territories"
     },
     "262": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Djibouti"
     },
     "266": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Gabon"
     },
     "268": {
       "4glte": false,
       "carriers": ["mot", "geo"],
       "code": "GE",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Georgia"
     },
     "270": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Gambia"
     },
     "275": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Palestinian Territory, Occupied"
     },
     "276": {
       "4glte": true,
       "carriers": ["vdf", "tkm", "tfc"],
       "code": "DE",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Germany"
     },
     "288": {
       "4glte": true,
       "carriers": ["vdf", "mil", "air", "glo"],
       "code": "GH",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Ghana"
     },
     "292": {
       "4glte": false,
       "carriers": ["gib"],
       "code": "GI",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Gibraltar"
     },
     "296": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Kiribati"
     },
     "300": {
       "4glte": true,
       "carriers": ["vdf", "cos", "win"],
       "code": "GR",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Greece"
     },
     "304": {
       "4glte": false,
       "carriers": ["tgl"],
       "code": "GL",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Greenland"
     },
     "308": {
       "4glte": false,
       "carriers": ["cab"],
       "code": "GD",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Grenada"
     },
     "312": {
       "4glte": false,
       "carriers": ["dgc", "ora"],
       "code": "GP",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Guadeloupe"
     },
     "316": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Guam"
     },
     "320": {
       "4glte": false,
       "carriers": ["tfc", "tgu"],
       "code": "GT",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Guatemala"
     },
     "324": {
       "4glte": false,
       "carriers": ["are", "org"],
       "code": "GN",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Guinea"
     },
     "328": {
       "4glte": false,
       "carriers": ["umo"],
       "code": "GY",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Guyana"
     },
     "332": {
       "4glte": false,
       "carriers": ["cch", "vtt"],
       "code": "HT",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Haiti"
     },
     "334": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Heard Island and McDonald Islands"
     },
     "336": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Holy See (Vatican City State)"
     },
     "340": {
       "4glte": false,
       "carriers": ["ser", "tfc"],
       "code": "HN",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Honduras"
     },
     "344": {
       "4glte": true,
       "carriers": ["hut", "chi", "hon", "smc"],
       "code": "HK",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Hong Kong"
     },
     "348": {
       "4glte": true,
       "carriers": ["vdf", "tmo", "tln"],
       "code": "HU",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Hungary"
     },
     "352": {
       "4glte": false,
       "carriers": ["nov", "sim", "vdf"],
       "code": "IC",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Iceland"
     },
     "356": {
       "4glte": true,
       "carriers": ["tat", "aic", "vdf", "bha", "mah", "bhr", "ide", "rel"],
       "code": "IN",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "India"
     },
     "360": {
       "4glte": false,
       "carriers": ["ptt"],
       "code": "ID",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Indonesia"
     },
     "364": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Iran, Islamic Republic of"
     },
     "368": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Iraq"
     },
     "372": {
       "4glte": true,
       "carriers": ["til", "met", "vdf"],
       "code": "IE",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Ireland"
     },
     "376": {
       "4glte": true,
       "carriers": ["pcl", "hot", "pcc", "cil"],
       "code": "IL",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Israel"
     },
     "380": {
       "4glte": true,
       "carriers": ["vdf", "tco", "h3g", "win"],
       "code": "IT",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Italy"
     },
     "384": {
       "4glte": false,
       "carriers": ["mtn", "atl"],
       "code": "CI",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Côte dIvoire"
     },
     "388": {
       "4glte": false,
       "carriers": ["cab", "dgc"],
       "code": "JM",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Jamaica"
     },
     "392": {
       "4glte": true,
       "carriers": ["sof", "ntt"],
       "code": "JP",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Japan"
     },
     "398": {
       "4glte": false,
       "carriers": ["mtl", "kar", "kcl"],
       "code": "KZ",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Kazakhstan"
     },
     "400": {
       "4glte": false,
       "carriers": ["zaj", "orj"],
       "code": "JO",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Jordan"
     },
     "404": {
       "4glte": false,
       "carriers": ["tkl", "saf", "air"],
       "code": "KE",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Kenya"
     },
     "408": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Korea, Democratic Peoples Republic of"
     },
     "410": {
       "4glte": true,
       "carriers": ["lgu", "ktc", "skt"],
       "code": "KR",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Korea, Republic of"
     },
     "414": {
       "4glte": false,
       "carriers": ["kuw"],
       "code": "KW",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Kuwait"
     },
     "417": {
       "4glte": false,
       "carriers": ["sky"],
       "code": "KG",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Kyrgyzstan"
     },
     "418": {
       "4glte": false,
       "carriers": ["vmc", "vtt"],
       "code": "LA",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Lao Peoples Democratic Republic"
     },
     "422": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Lebanon"
     },
     "426": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Lesotho"
     },
     "428": {
       "4glte": true,
       "carriers": ["lat", "tl2"],
       "code": "LV",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Latvia"
     },
     "430": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Liberia"
     },
     "434": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Libya"
     },
     "438": {
       "4glte": false,
       "carriers": ["tco"],
       "code": "LI",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Liechtenstein"
     },
     "440": {
       "4glte": true,
       "carriers": ["omn", "uab"],
       "code": "LT",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Lithuania"
     },
     "442": {
       "4glte": true,
       "carriers": ["pol", "tan"],
       "code": "LU",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Luxembourg"
     },
     "446": {
       "4glte": true,
       "carriers": ["hut", "ctm"],
       "code": "MO",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Macao"
     },
     "450": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Madagascar"
     },
     "454": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Malawi"
     },
     "458": {
       "4glte": true,
       "carriers": ["cel", "max", "dgs", "umo"],
       "code": "MY",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Malaysia"
     },
     "462": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Maldives"
     },
     "466": {
       "4glte": false,
       "carriers": ["ora"],
       "code": "ML",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Mali"
     },
     "470": {
       "4glte": false,
       "carriers": ["vdf", "gop"],
       "code": "MT",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Malta"
     },
     "474": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Martinique"
     },
     "478": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Mauritania"
     },
     "480": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Mauritius"
     },
     "484": {
       "4glte": true,
       "carriers": ["mov", "att", "tel"],
       "code": "MX",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Mexico"
     },
     "492": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Monaco"
     },
     "496": {
       "4glte": false,
       "carriers": ["unt", "mbc"],
       "code": "MN",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Mongolia"
     },
     "498": {
       "4glte": false,
       "carriers": ["mol", "ora"],
       "code": "MD",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Moldova, Republic of"
     },
     "499": {
       "4glte": false,
       "carriers": ["mte", "tln"],
       "code": "ME",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Montenegro"
     },
     "500": {
       "4glte": false,
       "carriers": ["cab"],
       "code": "MS",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Montserrat"
     },
     "504": {
       "4glte": false,
       "carriers": ["iti", "ora", "wan"],
       "code": "MA",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Morocco"
     },
     "508": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Mozambique"
     },
     "512": {
       "4glte": false,
       "carriers": ["otc", "oqt"],
       "code": "OM",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Oman"
     },
     "516": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Namibia"
     },
     "520": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Nauru"
     },
     "524": {
       "4glte": false,
       "carriers": ["ntc", "ncl"],
       "code": "NP",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Nepal"
     },
     "528": {
       "4glte": true,
       "carriers": ["vdf", "tmo", "kpn"],
       "code": "NL",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Netherlands"
     },
     "531": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Curaçao"
     },
     "533": {
       "4glte": false,
       "carriers": ["new"],
       "code": "AW",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Aruba"
     },
     "534": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Sint Maarten (Dutch part)"
     },
     "535": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Bonaire, Sint Eustatius and Saba"
     },
     "540": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "New Caledonia"
     },
     "548": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Vanuatu"
     },
     "554": {
       "4glte": true,
       "carriers": ["vdf", "two"],
       "code": "NZ",
       "continent": "OC",
-      "covered": true
+      "covered": true,
+      "name": "New Zealand"
     },
     "558": {
       "4glte": false,
       "carriers": ["tfc", "emp"],
       "code": "NI",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Nicaragua"
     },
     "562": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Niger"
     },
     "566": {
       "4glte": false,
       "carriers": ["mtn", "eme", "gll", "air"],
       "code": "NG",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Nigeria"
     },
     "570": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Niue"
     },
     "574": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Norfolk Island"
     },
     "578": {
       "4glte": true,
       "carriers": ["tla", "tln", "aer"],
       "code": "NO",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Norway"
     },
     "580": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Northern Mariana Islands"
     },
     "581": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "United States Minor Outlying Islands"
     },
     "583": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Micronesia, Federated States of"
     },
     "584": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Marshall Islands"
     },
     "585": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Palau"
     },
     "586": {
       "4glte": false,
       "carriers": ["pmc", "war", "ptm"],
       "code": "PK",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Pakistan"
     },
     "591": {
       "4glte": false,
       "carriers": ["dgc", "tfa", "cla", "cab"],
       "code": "PA",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Panama"
     },
     "598": {
       "4glte": false,
       "carriers": ["dgc"],
       "code": "PG",
       "continent": "OC",
-      "covered": true
+      "covered": true,
+      "name": "Papua New Guinea"
     },
     "600": {
       "4glte": false,
       "carriers": ["nuc", "amx", "hol", "tfc"],
       "code": "PY",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Paraguay"
     },
     "604": {
       "4glte": false,
       "carriers": ["tfa", "vtt", "ame"],
       "code": "PE",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Peru"
     },
     "608": {
       "4glte": true,
       "carriers": ["glt", "sma", "dmp"],
       "code": "PH",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Philippines"
     },
     "612": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Pitcairn"
     },
     "616": {
       "4glte": true,
       "carriers": ["pok", "p4s", "tmo", "ora"],
       "code": "PL",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Poland"
     },
     "620": {
       "4glte": true,
       "carriers": ["vdf", "nos", "meo"],
       "code": "PT",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Portugal"
     },
     "624": {
       "4glte": false,
       "carriers": ["are", "ora"],
       "code": "GW",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Guinea-Bissau"
     },
     "626": {
       "4glte": false,
       "carriers": ["vtt"],
       "code": "TL",
       "continent": "OC",
-      "covered": true
+      "covered": true,
+      "name": "Timor-Leste"
     },
     "630": {
       "4glte": false,
       "carriers": ["prt"],
       "code": "PR",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Puerto Rico"
     },
     "634": {
       "4glte": false,
       "carriers": ["oor", "vdf"],
       "code": "QA",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Qatar"
     },
     "638": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Réunion"
     },
     "642": {
       "4glte": true,
       "carriers": ["ora", "vdf", "tkm"],
       "code": "RO",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Romania"
     },
     "643": {
       "4glte": true,
       "carriers": ["mts", "vmc", "llc", "meg"],
       "code": "RU",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Russian Federation"
     },
     "646": {
       "4glte": false,
       "carriers": ["mtn", "tig"],
       "code": "RW",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Rwanda"
     },
     "652": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Saint Barthélemy"
     },
     "654": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Saint Helena, Ascension and Tristan da Cunha"
     },
     "659": {
       "4glte": false,
       "carriers": ["cab"],
       "code": "KN",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Saint Kitts and Nevis"
     },
     "660": {
       "4glte": false,
       "carriers": ["cab"],
       "code": "AI",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Anguilla"
     },
     "662": {
       "4glte": false,
       "carriers": ["cab"],
       "code": "LC",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Saint Lucia"
     },
     "663": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Saint Martin (French part)"
     },
     "666": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Saint Pierre and Miquelon"
     },
     "670": {
       "4glte": false,
       "carriers": ["cab"],
       "code": "VC",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Saint Vincent and the Grenadines"
     },
     "674": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "San Marino"
     },
     "678": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Sao Tome and Principe"
     },
     "682": {
       "4glte": true,
       "carriers": ["sau", "mtc", "eec"],
       "code": "SA",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Saudi Arabia"
     },
     "686": {
       "4glte": false,
       "carriers": ["sen"],
       "code": "SN",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Senegal"
     },
     "688": {
       "4glte": false,
       "carriers": ["tln"],
       "code": "RS",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Serbia"
     },
     "690": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Seychelles"
     },
     "694": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Sierra Leone"
     },
     "702": {
       "4glte": true,
       "carriers": ["m1l", "sta", "sin"],
       "code": "SG",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Singapore"
     },
     "703": {
       "4glte": false,
       "carriers": ["slo", "o2o", "ora"],
       "code": "SK",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Slovakia"
     },
     "704": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Viet Nam"
     },
     "705": {
       "4glte": false,
       "carriers": ["smd", "tkm", "tlm"],
       "code": "SI",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Slovenia"
     },
     "706": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Somalia"
     },
     "710": {
       "4glte": true,
       "carriers": ["vdc", "mnt", "cec"],
       "code": "ZA",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "South Africa"
     },
     "716": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Zimbabwe"
     },
     "724": {
       "4glte": true,
       "carriers": ["vdf", "xfe", "ora", "tfa"],
       "code": "ES",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Spain"
     },
     "728": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "South Sudan"
     },
     "729": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Sudan"
     },
     "732": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Western Sahara"
     },
     "740": {
       "4glte": false,
       "carriers": ["tle", "dgc"],
       "code": "SR",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Suriname"
     },
     "744": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Svalbard and Jan Mayen"
     },
     "748": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Swaziland"
     },
     "752": {
       "4glte": true,
       "carriers": ["hi3", "tla", "tl2", "tln"],
       "code": "SE",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Sweden"
     },
     "756": {
       "4glte": true,
       "carriers": ["swi", "sca", "sal"],
       "code": "CH",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Switzerland"
     },
     "760": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Syrian Arab Republic"
     },
     "762": {
       "4glte": false,
       "carriers": ["tac"],
       "code": "TJ",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Tajikistan"
     },
     "764": {
       "4glte": true,
       "carriers": ["tru", "adv", "dta", "tot"],
       "code": "TH",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Thailand"
     },
     "768": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Togo"
     },
     "772": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Tokelau"
     },
     "776": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Tonga"
     },
     "780": {
       "4glte": false,
       "carriers": ["dgc"],
       "code": "TT",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Trinidad and Tobago"
     },
     "784": {
       "4glte": false,
       "carriers": ["emi"],
       "code": "AE",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "United Arab Emirates"
     },
     "788": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Tunisia"
     },
     "792": {
       "4glte": true,
       "carriers": ["ttk", "vdf", "tur"],
       "code": "TR",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Turkey"
     },
     "795": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Turkmenistan"
     },
     "796": {
       "4glte": true,
       "carriers": ["cab"],
       "code": "TC",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "Turks and Caicos Islands"
     },
     "798": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Tuvalu"
     },
     "800": {
       "4glte": false,
       "carriers": ["uga", "mtn", "afr", "sul", "air"],
       "code": "UG",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Uganda"
     },
     "804": {
       "4glte": false,
       "carriers": ["kyi", "lif", "tri", "mts"],
       "code": "UA",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Ukraine"
     },
     "807": {
       "4glte": true,
       "carriers": ["one"],
       "code": "MK",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "Macedonia, the former Yugoslav Republic of"
     },
     "818": {
       "4glte": false,
       "carriers": ["ora", "vdf", "ets"],
       "code": "EG",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Egypt"
     },
     "826": {
       "4glte": true,
       "carriers": ["vdf", "hut", "mat", "eel", "tfa"],
       "code": "GB",
       "continent": "EU",
-      "covered": true
+      "covered": true,
+      "name": "United Kingdom"
     },
     "831": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Guernsey"
     },
     "832": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Jersey"
     },
     "833": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Isle of Man"
     },
     "834": {
       "4glte": false,
       "carriers": ["ben", "vtt", "mic", "zan", "vdc", "air"],
       "code": "TZ",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Tanzania, United Republic of"
     },
     "840": {
       "4glte": true,
       "carriers": ["att", "spr", "tmo", "vzw", "reg"],
       "code": "US",
       "continent": "NA",
-      "covered": true
+      "covered": true,
+      "name": "United States"
     },
     "850": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Virgin Islands, U.S."
     },
     "854": {
       "4glte": false,
       "carriers": ["air"],
       "code": "BF",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Burkina Faso"
     },
     "858": {
       "4glte": false,
       "carriers": ["tfa", "amw"],
       "code": "UY",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Uruguay"
     },
     "860": {
       "4glte": false,
       "carriers": ["unt", "fec"],
       "code": "UZ",
       "continent": "AS",
-      "covered": true
+      "covered": true,
+      "name": "Uzbekistan"
     },
     "862": {
       "4glte": false,
       "carriers": ["tfa"],
       "code": "VE",
       "continent": "SA",
-      "covered": true
+      "covered": true,
+      "name": "Venezuela, Bolivarian Republic of"
     },
     "876": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Wallis and Futuna"
     },
     "882": {
       "4glte": false,
       "carriers": ["dgc"],
       "code": "WS",
       "continent": "OC",
-      "covered": true
+      "covered": true,
+      "name": "Samoa"
     },
     "887": {
       "4glte": false,
       "carriers": [],
       "code": "",
       "continent": "",
-      "covered": false
+      "covered": false,
+      "name": "Yemen"
     },
     "894": {
       "4glte": false,
       "carriers": ["zam"],
       "code": "ZM",
       "continent": "AF",
-      "covered": true
+      "covered": true,
+      "name": "Zambia"
     }
   },
   "carriers": {
