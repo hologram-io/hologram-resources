@@ -1083,7 +1083,7 @@
     },
     "458": {
       "4glte": true,
-      "carriers": ["cel", "max", "dgs", "umo"],
+      "carriers": ["cel", "max", "dgs"],
       "code": "MY",
       "continent": "AS",
       "covered": true,
