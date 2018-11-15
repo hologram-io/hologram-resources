@@ -1947,7 +1947,7 @@
     },
     "840": {
       "4glte": true,
-      "carriers": ["att", "spr", "tmo", "vzw", "reg"],
+      "carriers": ["att", "spr", "tmo", "reg"],
       "code": "US",
       "continent": "NA",
       "covered": true,
