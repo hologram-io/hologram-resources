@@ -2675,7 +2675,7 @@
       "4glte": true,
       "2g": true,
       "3g": true,
-      "catM1": false,
+      "catM1": true,
       "carriers": ["att", "spr", "tmo", "vzw", "reg"],
       "code": "US",
       "continent": "NA",
