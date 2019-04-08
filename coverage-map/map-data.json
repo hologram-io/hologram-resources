@@ -1571,7 +1571,7 @@
     },
     "534": {
       "4glte": false,
-      "2g": true,
+      "2g": false,
       "3g": true,
       "carriers": [],
       "code": "",
@@ -2051,7 +2051,7 @@
     },
     "702": {
       "4glte": true,
-      "2g": true,
+      "2g": false,
       "3g": true,
       "carriers": ["m1l", "sta", "sin"],
       "code": "SG",
@@ -2501,7 +2501,7 @@
     },
     "882": {
       "4glte": false,
-      "2g": true,
+      "2g": false,
       "3g": true,
       "carriers": ["dgc"],
       "code": "WS",
