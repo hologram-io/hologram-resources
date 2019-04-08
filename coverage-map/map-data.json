@@ -11,6 +11,9 @@
   "countries": {
     "-1": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -19,6 +22,9 @@
     },
     "-2": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -27,6 +33,9 @@
     },
     "-3": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -35,6 +44,9 @@
     },
     "4": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["emi", "mtn", "afg"],
       "code": "AF",
       "continent": "AS",
@@ -43,6 +55,9 @@
     },
     "8": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "eag"],
       "code": "AL",
       "continent": "EU",
@@ -51,6 +66,9 @@
     },
     "10": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -59,6 +77,9 @@
     },
     "12": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -67,6 +88,9 @@
     },
     "16": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -75,6 +99,9 @@
     },
     "20": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -83,6 +110,9 @@
     },
     "24": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -91,6 +121,9 @@
     },
     "28": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "AG",
       "continent": "NA",
@@ -99,6 +132,9 @@
     },
     "31": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["aze", "azf", "bak"],
       "code": "AZ",
       "continent": "AS",
@@ -107,6 +143,9 @@
     },
     "32": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tmv", "amx"],
       "code": "AR",
       "continent": "SA",
@@ -115,6 +154,9 @@
     },
     "36": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "sin", "tcl"],
       "code": "AU",
       "continent": "OC",
@@ -123,6 +165,9 @@
     },
     "40": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["hut", "tmo", "a1t"],
       "code": "AT",
       "continent": "EU",
@@ -131,6 +176,9 @@
     },
     "44": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -139,6 +187,9 @@
     },
     "48": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -147,6 +198,9 @@
     },
     "50": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ban", "gra"],
       "code": "BD",
       "continent": "AS",
@@ -155,6 +209,9 @@
     },
     "51": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["arm", "uco", "ktl"],
       "code": "AM",
       "continent": "AS",
@@ -163,6 +220,9 @@
     },
     "52": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "BB",
       "continent": "NA",
@@ -171,6 +231,9 @@
     },
     "56": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tng", "ora", "prx"],
       "code": "BE",
       "continent": "EU",
@@ -179,6 +242,9 @@
     },
     "60": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ber"],
       "code": "BM",
       "continent": "NA",
@@ -187,6 +253,9 @@
     },
     "64": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -195,6 +264,9 @@
     },
     "68": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tig", "nue"],
       "code": "BO",
       "continent": "SA",
@@ -203,6 +275,9 @@
     },
     "70": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["hte", "rst"],
       "code": "BA",
       "continent": "EU",
@@ -211,6 +286,9 @@
     },
     "72": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -219,6 +297,9 @@
     },
     "74": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -227,6 +308,9 @@
     },
     "76": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["viv", "cla", "oim", "tim"],
       "code": "BR",
       "continent": "SA",
@@ -235,6 +319,9 @@
     },
     "84": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["bel"],
       "code": "BZ",
       "continent": "NA",
@@ -243,6 +330,9 @@
     },
     "86": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -251,6 +341,9 @@
     },
     "90": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -259,6 +352,9 @@
     },
     "92": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab", "car"],
       "code": "VG",
       "continent": "NA",
@@ -267,6 +363,9 @@
     },
     "96": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["prg"],
       "code": "BN",
       "continent": "AS",
@@ -275,6 +374,9 @@
     },
     "100": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mot", "tln"],
       "code": "BG",
       "continent": "EU",
@@ -283,6 +385,9 @@
     },
     "104": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tln", "oor"],
       "code": "MM",
       "continent": "AS",
@@ -291,6 +396,9 @@
     },
     "108": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["lac", "vtt"],
       "code": "BI",
       "continent": "AF",
@@ -299,6 +407,9 @@
     },
     "112": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["jll", "uev"],
       "code": "BY",
       "continent": "EU",
@@ -307,6 +418,9 @@
     },
     "116": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vtt", "cam"],
       "code": "KH",
       "continent": "AS",
@@ -315,6 +429,9 @@
     },
     "120": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vtt", "mtn"],
       "code": "CM",
       "continent": "AF",
@@ -323,6 +440,9 @@
     },
     "124": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["rog", "sas", "vid"],
       "code": "CA",
       "continent": "NA",
@@ -331,6 +451,9 @@
     },
     "132": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -339,6 +462,9 @@
     },
     "136": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "KY",
       "continent": "NA",
@@ -347,6 +473,9 @@
     },
     "140": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -355,6 +484,9 @@
     },
     "144": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["dia", "mbt", "ets", "hut"],
       "code": "LK",
       "continent": "AS",
@@ -363,6 +495,9 @@
     },
     "148": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["air"],
       "code": "TD",
       "continent": "AF",
@@ -371,6 +506,9 @@
     },
     "152": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tfa", "ent", "cla"],
       "code": "CL",
       "continent": "SA",
@@ -379,6 +517,9 @@
     },
     "156": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["chi", "chu"],
       "code": "CN",
       "continent": "AS",
@@ -387,6 +528,9 @@
     },
     "158": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cht", "tst", "tmc", "far"],
       "code": "TW",
       "continent": "AS",
@@ -395,6 +539,9 @@
     },
     "162": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -403,6 +550,9 @@
     },
     "166": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -411,6 +561,9 @@
     },
     "170": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["col"],
       "code": "CO",
       "continent": "SA",
@@ -419,6 +572,9 @@
     },
     "174": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -427,6 +583,9 @@
     },
     "175": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -435,6 +594,9 @@
     },
     "178": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["air", "vdc", "ora", "afr"],
       "code": "CG",
       "continent": "AF",
@@ -443,6 +605,9 @@
     },
     "180": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["air", "vdc", "ora", "afr"],
       "code": "CD",
       "continent": "AF",
@@ -451,6 +616,9 @@
     },
     "184": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -459,6 +627,9 @@
     },
     "188": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mov", "cla", "ins"],
       "code": "CR",
       "continent": "NA",
@@ -467,6 +638,9 @@
     },
     "191": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tl2", "vip"],
       "code": "HR",
       "continent": "EU",
@@ -475,6 +649,9 @@
     },
     "192": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -483,6 +660,9 @@
     },
     "196": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cyp", "mtn", "pri"],
       "code": "CY",
       "continent": "EU",
@@ -491,6 +671,9 @@
     },
     "203": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "tmo", "o2o"],
       "code": "CZ",
       "continent": "EU",
@@ -499,6 +682,9 @@
     },
     "204": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ets", "gbl"],
       "code": "BJ",
       "continent": "AF",
@@ -507,6 +693,9 @@
     },
     "208": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["hi3", "tla", "tln", "tdc"],
       "code": "DK",
       "continent": "EU",
@@ -515,6 +704,9 @@
     },
     "212": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "DM",
       "continent": "NA",
@@ -523,6 +715,9 @@
     },
     "214": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cdt"],
       "code": "DO",
       "continent": "NA",
@@ -531,6 +726,9 @@
     },
     "218": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ote", "cnt"],
       "code": "EC",
       "continent": "SA",
@@ -539,6 +737,9 @@
     },
     "222": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["dgc", "tfa", "cte", "tes"],
       "code": "SV",
       "continent": "NA",
@@ -547,6 +748,9 @@
     },
     "226": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -555,6 +759,9 @@
     },
     "231": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -563,6 +770,9 @@
     },
     "232": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -571,6 +781,9 @@
     },
     "233": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tla", "tl2", "eli"],
       "code": "EE",
       "continent": "EU",
@@ -579,6 +792,9 @@
     },
     "234": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["fat"],
       "code": "FO",
       "continent": "EU",
@@ -587,6 +803,9 @@
     },
     "238": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -595,6 +814,9 @@
     },
     "239": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -603,6 +825,9 @@
     },
     "242": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["dgc"],
       "code": "FJ",
       "continent": "OC",
@@ -611,6 +836,9 @@
     },
     "246": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tla", "ala", "eli", "dna"],
       "code": "FI",
       "continent": "EU",
@@ -619,6 +847,9 @@
     },
     "248": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tla", "ala", "eli", "dna"],
       "code": "FI",
       "continent": "EU",
@@ -627,6 +858,9 @@
     },
     "250": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ora", "fre", "sfr", "bou"],
       "code": "FR",
       "continent": "EU",
@@ -635,6 +869,9 @@
     },
     "254": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -643,6 +880,9 @@
     },
     "258": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -651,6 +891,9 @@
     },
     "260": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -659,6 +902,9 @@
     },
     "262": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -667,6 +913,9 @@
     },
     "266": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -675,6 +924,9 @@
     },
     "268": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mot", "geo"],
       "code": "GE",
       "continent": "AS",
@@ -683,6 +935,9 @@
     },
     "270": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -691,6 +946,9 @@
     },
     "275": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -699,6 +957,9 @@
     },
     "276": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "tkm", "tfc"],
       "code": "DE",
       "continent": "EU",
@@ -707,6 +968,9 @@
     },
     "288": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "mil", "air", "glo"],
       "code": "GH",
       "continent": "AF",
@@ -715,6 +979,9 @@
     },
     "292": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["gib"],
       "code": "GI",
       "continent": "EU",
@@ -723,6 +990,9 @@
     },
     "296": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -731,6 +1001,9 @@
     },
     "300": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "cos", "win"],
       "code": "GR",
       "continent": "EU",
@@ -739,6 +1012,9 @@
     },
     "304": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tgl"],
       "code": "GL",
       "continent": "NA",
@@ -747,6 +1023,9 @@
     },
     "308": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "GD",
       "continent": "NA",
@@ -755,6 +1034,9 @@
     },
     "312": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["dgc", "ora"],
       "code": "GP",
       "continent": "NA",
@@ -763,6 +1045,9 @@
     },
     "316": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -771,6 +1056,9 @@
     },
     "320": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tfc", "tgu"],
       "code": "GT",
       "continent": "NA",
@@ -779,6 +1067,9 @@
     },
     "324": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["are", "org"],
       "code": "GN",
       "continent": "AF",
@@ -787,6 +1078,9 @@
     },
     "328": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["umo"],
       "code": "GY",
       "continent": "SA",
@@ -795,6 +1089,9 @@
     },
     "332": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cch", "vtt"],
       "code": "HT",
       "continent": "NA",
@@ -803,6 +1100,9 @@
     },
     "334": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -811,6 +1111,9 @@
     },
     "336": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -819,6 +1122,9 @@
     },
     "340": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ser", "tfc"],
       "code": "HN",
       "continent": "NA",
@@ -827,6 +1133,9 @@
     },
     "344": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["hut", "chi", "hon", "smc"],
       "code": "HK",
       "continent": "AS",
@@ -835,6 +1144,9 @@
     },
     "348": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "tmo", "tln"],
       "code": "HU",
       "continent": "EU",
@@ -843,6 +1155,9 @@
     },
     "352": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["nov", "sim", "vdf"],
       "code": "IC",
       "continent": "EU",
@@ -851,6 +1166,9 @@
     },
     "356": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tat", "aic", "vdf", "bha", "mah", "bhr", "ide", "rel"],
       "code": "IN",
       "continent": "AS",
@@ -859,6 +1177,9 @@
     },
     "360": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ptt"],
       "code": "ID",
       "continent": "AS",
@@ -867,6 +1188,9 @@
     },
     "364": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -875,6 +1199,9 @@
     },
     "368": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -883,6 +1210,9 @@
     },
     "372": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["til", "met", "vdf"],
       "code": "IE",
       "continent": "EU",
@@ -891,6 +1221,9 @@
     },
     "376": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["pcl", "hot", "pcc", "cil"],
       "code": "IL",
       "continent": "AS",
@@ -899,6 +1232,9 @@
     },
     "380": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "tco", "h3g", "win"],
       "code": "IT",
       "continent": "EU",
@@ -907,6 +1243,9 @@
     },
     "384": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mtn", "atl"],
       "code": "CI",
       "continent": "AF",
@@ -915,6 +1254,9 @@
     },
     "388": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab", "dgc"],
       "code": "JM",
       "continent": "NA",
@@ -923,6 +1265,9 @@
     },
     "392": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["sof", "ntt"],
       "code": "JP",
       "continent": "AS",
@@ -931,6 +1276,9 @@
     },
     "398": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mtl", "kar", "kcl"],
       "code": "KZ",
       "continent": "AS",
@@ -939,6 +1287,9 @@
     },
     "400": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["zaj", "orj"],
       "code": "JO",
       "continent": "AS",
@@ -947,6 +1298,9 @@
     },
     "404": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tkl", "saf", "air"],
       "code": "KE",
       "continent": "AF",
@@ -955,6 +1309,9 @@
     },
     "408": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -963,6 +1320,9 @@
     },
     "410": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["lgu", "ktc", "skt"],
       "code": "KR",
       "continent": "AS",
@@ -971,6 +1331,9 @@
     },
     "414": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["kuw"],
       "code": "KW",
       "continent": "AS",
@@ -979,6 +1342,9 @@
     },
     "417": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["sky"],
       "code": "KG",
       "continent": "AS",
@@ -987,6 +1353,9 @@
     },
     "418": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vmc", "vtt"],
       "code": "LA",
       "continent": "AS",
@@ -995,6 +1364,9 @@
     },
     "422": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1003,6 +1375,9 @@
     },
     "426": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1011,6 +1386,9 @@
     },
     "428": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["lat", "tl2"],
       "code": "LV",
       "continent": "EU",
@@ -1019,6 +1397,9 @@
     },
     "430": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1027,6 +1408,9 @@
     },
     "434": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1035,6 +1419,9 @@
     },
     "438": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tco"],
       "code": "LI",
       "continent": "EU",
@@ -1043,6 +1430,9 @@
     },
     "440": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["omn", "uab"],
       "code": "LT",
       "continent": "EU",
@@ -1051,6 +1441,9 @@
     },
     "442": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["pol", "tan"],
       "code": "LU",
       "continent": "EU",
@@ -1059,6 +1452,9 @@
     },
     "446": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["hut", "ctm"],
       "code": "MO",
       "continent": "AS",
@@ -1067,6 +1463,9 @@
     },
     "450": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1075,6 +1474,9 @@
     },
     "454": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1083,6 +1485,9 @@
     },
     "458": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cel", "max", "dgs"],
       "code": "MY",
       "continent": "AS",
@@ -1091,6 +1496,9 @@
     },
     "462": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1099,6 +1507,9 @@
     },
     "466": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ora"],
       "code": "ML",
       "continent": "AF",
@@ -1107,6 +1518,9 @@
     },
     "470": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "gop"],
       "code": "MT",
       "continent": "EU",
@@ -1115,6 +1529,9 @@
     },
     "474": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1123,6 +1540,9 @@
     },
     "478": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1131,6 +1551,9 @@
     },
     "480": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1139,6 +1562,9 @@
     },
     "484": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mov", "att", "tel"],
       "code": "MX",
       "continent": "NA",
@@ -1147,6 +1573,9 @@
     },
     "492": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1155,6 +1584,9 @@
     },
     "496": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["unt", "mbc"],
       "code": "MN",
       "continent": "AS",
@@ -1163,6 +1595,9 @@
     },
     "498": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mol", "ora"],
       "code": "MD",
       "continent": "EU",
@@ -1171,6 +1606,9 @@
     },
     "499": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mte", "tln"],
       "code": "ME",
       "continent": "EU",
@@ -1179,6 +1617,9 @@
     },
     "500": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "MS",
       "continent": "NA",
@@ -1187,6 +1628,9 @@
     },
     "504": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["iti", "ora", "wan"],
       "code": "MA",
       "continent": "AF",
@@ -1195,6 +1639,9 @@
     },
     "508": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1203,6 +1650,9 @@
     },
     "512": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["otc", "oqt"],
       "code": "OM",
       "continent": "AS",
@@ -1211,6 +1661,9 @@
     },
     "516": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1219,6 +1672,9 @@
     },
     "520": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1227,6 +1683,9 @@
     },
     "524": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ntc", "ncl"],
       "code": "NP",
       "continent": "AS",
@@ -1235,6 +1694,9 @@
     },
     "528": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "tmo", "kpn"],
       "code": "NL",
       "continent": "EU",
@@ -1243,6 +1705,9 @@
     },
     "531": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1251,6 +1716,9 @@
     },
     "533": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["new"],
       "code": "AW",
       "continent": "NA",
@@ -1259,6 +1727,9 @@
     },
     "534": {
       "4glte": false,
+      "2g": false,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1267,6 +1738,9 @@
     },
     "535": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1275,6 +1749,9 @@
     },
     "540": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1283,6 +1760,9 @@
     },
     "548": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1291,6 +1771,9 @@
     },
     "554": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "two"],
       "code": "NZ",
       "continent": "OC",
@@ -1299,6 +1782,9 @@
     },
     "558": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tfc", "emp"],
       "code": "NI",
       "continent": "NA",
@@ -1307,6 +1793,9 @@
     },
     "562": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1315,6 +1804,9 @@
     },
     "566": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mtn", "eme", "gll", "air"],
       "code": "NG",
       "continent": "AF",
@@ -1323,6 +1815,9 @@
     },
     "570": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1331,6 +1826,9 @@
     },
     "574": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1339,6 +1837,9 @@
     },
     "578": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tla", "tln", "aer"],
       "code": "NO",
       "continent": "EU",
@@ -1347,6 +1848,9 @@
     },
     "580": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1355,6 +1859,9 @@
     },
     "581": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1363,6 +1870,9 @@
     },
     "583": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1371,6 +1881,9 @@
     },
     "584": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1379,6 +1892,9 @@
     },
     "585": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1387,6 +1903,9 @@
     },
     "586": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["pmc", "war", "ptm"],
       "code": "PK",
       "continent": "AS",
@@ -1395,6 +1914,9 @@
     },
     "591": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["dgc", "tfa", "cla", "cab"],
       "code": "PA",
       "continent": "NA",
@@ -1403,6 +1925,9 @@
     },
     "598": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["dgc"],
       "code": "PG",
       "continent": "OC",
@@ -1411,6 +1936,9 @@
     },
     "600": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["nuc", "amx", "hol", "tfc"],
       "code": "PY",
       "continent": "SA",
@@ -1419,6 +1947,9 @@
     },
     "604": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tfa", "vtt", "ame"],
       "code": "PE",
       "continent": "SA",
@@ -1427,6 +1958,9 @@
     },
     "608": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["glt", "sma", "dmp"],
       "code": "PH",
       "continent": "AS",
@@ -1435,6 +1969,9 @@
     },
     "612": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1443,6 +1980,9 @@
     },
     "616": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["pok", "p4s", "tmo", "ora"],
       "code": "PL",
       "continent": "EU",
@@ -1451,6 +1991,9 @@
     },
     "620": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "nos", "meo"],
       "code": "PT",
       "continent": "EU",
@@ -1459,6 +2002,9 @@
     },
     "624": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["are", "ora"],
       "code": "GW",
       "continent": "AF",
@@ -1467,6 +2013,9 @@
     },
     "626": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vtt"],
       "code": "TL",
       "continent": "OC",
@@ -1475,6 +2024,9 @@
     },
     "630": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["prt"],
       "code": "PR",
       "continent": "NA",
@@ -1483,6 +2035,9 @@
     },
     "634": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["oor", "vdf"],
       "code": "QA",
       "continent": "AS",
@@ -1491,6 +2046,9 @@
     },
     "638": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1499,6 +2057,9 @@
     },
     "642": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ora", "vdf", "tkm"],
       "code": "RO",
       "continent": "EU",
@@ -1507,6 +2068,9 @@
     },
     "643": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mts", "vmc", "llc", "meg"],
       "code": "RU",
       "continent": "EU",
@@ -1515,6 +2079,9 @@
     },
     "646": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["mtn", "tig"],
       "code": "RW",
       "continent": "AF",
@@ -1523,6 +2090,9 @@
     },
     "652": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1531,6 +2101,9 @@
     },
     "654": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1539,6 +2112,9 @@
     },
     "659": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "KN",
       "continent": "NA",
@@ -1547,6 +2123,9 @@
     },
     "660": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "AI",
       "continent": "NA",
@@ -1555,6 +2134,9 @@
     },
     "662": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "LC",
       "continent": "NA",
@@ -1563,6 +2145,9 @@
     },
     "663": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1571,6 +2156,9 @@
     },
     "666": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1579,6 +2167,9 @@
     },
     "670": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "VC",
       "continent": "NA",
@@ -1587,6 +2178,9 @@
     },
     "674": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1595,6 +2189,9 @@
     },
     "678": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1603,6 +2200,9 @@
     },
     "682": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["sau", "mtc", "eec"],
       "code": "SA",
       "continent": "AS",
@@ -1611,6 +2211,9 @@
     },
     "686": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["sen"],
       "code": "SN",
       "continent": "AF",
@@ -1619,6 +2222,9 @@
     },
     "688": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tln"],
       "code": "RS",
       "continent": "EU",
@@ -1627,6 +2233,9 @@
     },
     "690": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1635,6 +2244,9 @@
     },
     "694": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1643,6 +2255,9 @@
     },
     "702": {
       "4glte": true,
+      "2g": false,
+      "3g": true,
+      "catM1": false,
       "carriers": ["m1l", "sta", "sin"],
       "code": "SG",
       "continent": "AS",
@@ -1651,6 +2266,9 @@
     },
     "703": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["slo", "o2o", "ora"],
       "code": "SK",
       "continent": "EU",
@@ -1659,6 +2277,9 @@
     },
     "704": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1667,6 +2288,9 @@
     },
     "705": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["smd", "tkm", "tlm"],
       "code": "SI",
       "continent": "EU",
@@ -1675,6 +2299,9 @@
     },
     "706": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1683,6 +2310,9 @@
     },
     "710": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdc", "mnt", "cec"],
       "code": "ZA",
       "continent": "AF",
@@ -1691,6 +2321,9 @@
     },
     "716": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1699,6 +2332,9 @@
     },
     "724": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "xfe", "ora", "tfa"],
       "code": "ES",
       "continent": "EU",
@@ -1707,6 +2343,9 @@
     },
     "728": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1715,6 +2354,9 @@
     },
     "729": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1723,6 +2365,9 @@
     },
     "732": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1731,6 +2376,9 @@
     },
     "740": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tle", "dgc"],
       "code": "SR",
       "continent": "SA",
@@ -1739,6 +2387,9 @@
     },
     "744": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1747,6 +2398,9 @@
     },
     "748": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1755,6 +2409,9 @@
     },
     "752": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["hi3", "tla", "tl2", "tln"],
       "code": "SE",
       "continent": "EU",
@@ -1763,6 +2420,9 @@
     },
     "756": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["swi", "sca", "sal"],
       "code": "CH",
       "continent": "EU",
@@ -1771,6 +2431,9 @@
     },
     "760": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1779,6 +2442,9 @@
     },
     "762": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tac"],
       "code": "TJ",
       "continent": "AS",
@@ -1787,6 +2453,9 @@
     },
     "764": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tru", "adv", "dta", "tot"],
       "code": "TH",
       "continent": "AS",
@@ -1795,6 +2464,9 @@
     },
     "768": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1803,6 +2475,9 @@
     },
     "772": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1811,6 +2486,9 @@
     },
     "776": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1819,6 +2497,9 @@
     },
     "780": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["dgc"],
       "code": "TT",
       "continent": "NA",
@@ -1827,6 +2508,9 @@
     },
     "784": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["emi"],
       "code": "AE",
       "continent": "AS",
@@ -1835,6 +2519,9 @@
     },
     "788": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1843,6 +2530,9 @@
     },
     "792": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ttk", "vdf", "tur"],
       "code": "TR",
       "continent": "AS",
@@ -1851,6 +2541,9 @@
     },
     "795": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1859,6 +2552,9 @@
     },
     "796": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["cab"],
       "code": "TC",
       "continent": "NA",
@@ -1867,6 +2563,9 @@
     },
     "798": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1875,6 +2574,9 @@
     },
     "800": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["uga", "mtn", "afr", "sul", "air"],
       "code": "UG",
       "continent": "AF",
@@ -1883,6 +2585,9 @@
     },
     "804": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["kyi", "lif", "tri", "mts"],
       "code": "UA",
       "continent": "EU",
@@ -1891,6 +2596,9 @@
     },
     "807": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["one"],
       "code": "MK",
       "continent": "EU",
@@ -1899,6 +2607,9 @@
     },
     "818": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ora", "vdf", "ets"],
       "code": "EG",
       "continent": "AF",
@@ -1907,6 +2618,9 @@
     },
     "826": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["vdf", "hut", "mat", "eel", "tfa"],
       "code": "GB",
       "continent": "EU",
@@ -1915,6 +2629,9 @@
     },
     "831": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1923,6 +2640,9 @@
     },
     "832": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1931,6 +2651,9 @@
     },
     "833": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1939,6 +2662,9 @@
     },
     "834": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["ben", "vtt", "mic", "zan", "vdc", "air"],
       "code": "TZ",
       "continent": "AF",
@@ -1947,6 +2673,9 @@
     },
     "840": {
       "4glte": true,
+      "2g": true,
+      "3g": true,
+      "catM1": true,
       "carriers": ["att", "spr", "tmo", "vzw", "reg"],
       "code": "US",
       "continent": "NA",
@@ -1955,6 +2684,9 @@
     },
     "850": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -1963,6 +2695,9 @@
     },
     "854": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["air"],
       "code": "BF",
       "continent": "AF",
@@ -1971,6 +2706,9 @@
     },
     "858": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tfa", "amw"],
       "code": "UY",
       "continent": "SA",
@@ -1979,6 +2717,9 @@
     },
     "860": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["unt", "fec"],
       "code": "UZ",
       "continent": "AS",
@@ -1987,6 +2728,9 @@
     },
     "862": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["tfa"],
       "code": "VE",
       "continent": "SA",
@@ -1995,6 +2739,9 @@
     },
     "876": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -2003,6 +2750,9 @@
     },
     "882": {
       "4glte": false,
+      "2g": false,
+      "3g": true,
+      "catM1": false,
       "carriers": ["dgc"],
       "code": "WS",
       "continent": "OC",
@@ -2011,6 +2761,9 @@
     },
     "887": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": [],
       "code": "",
       "continent": "",
@@ -2019,6 +2772,9 @@
     },
     "894": {
       "4glte": false,
+      "2g": true,
+      "3g": true,
+      "catM1": false,
       "carriers": ["zam"],
       "code": "ZM",
       "continent": "AF",
